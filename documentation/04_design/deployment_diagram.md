@@ -1,4 +1,8 @@
-# Deployment Diagram
+# Deployment Diagramm 
+
+- list 
+- list 
+- list
 
 ## Overview
 This document describes the deployment architecture showing how software components are deployed on hardware nodes.
