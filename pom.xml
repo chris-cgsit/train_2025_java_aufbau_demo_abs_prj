@@ -4,8 +4,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>at.cgsit.train.example</groupId>
-    <artifactId>train_2025_java_aufbau_example_project</artifactId>
+    <groupId>at.cgsit.train.example</groupId>^
+    <artifactId>myartecfact_id_prj</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
